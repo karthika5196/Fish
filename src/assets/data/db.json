@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "item": "Fish",
+      "price": "1000",
+      "image": "http://localhost:4200/assets/1.jpeg",
+      "rating":4
+    },
+    {
+      "id": 2,
+      "item": "Fish",
+      "price": "3000",
+      "image":"http://localhost:4200/assets/2.jpg",
+      "rating":5
+    },
+    {
+      "id": 3,
+      "item": "Fish",
+      "price": "2000",
+      "image":"http://localhost:4200/assets/3.jpg",
+      "rating":4
+    },
+    {
+      "id": 4,
+      "item": "Fish",
+      "price": "3000",
+      "image":"http://localhost:4200/assets/4.jpg",
+      "rating":5
+    },
+    {
+      "id": 5,
+      "item": "Fish",
+      "price": "3000",
+      "image":"http://localhost:4200/assets/5.jpg",
+      "rating":5
+    },
+    {
+      "id": 6,
+      "item": "Fish",
+      "price": "3000",
+      "image":"http://localhost:4200/assets/6.jpg",
+      "rating":5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
